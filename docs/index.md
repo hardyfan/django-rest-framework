@@ -1,20 +1,18 @@
 <style>
 .promo li a {
-    float: left;
-    width: 130px;
-    height: 20px;
-    text-align: center;
-    margin: 10px 30px;
-    padding: 150px 0 0 0;
-    background-position: 0 50%;
-    background-size: 130px auto;
-    background-repeat: no-repeat;
-    font-size: 120%;
-    color: black;
+float: left;
+width: 130px;
+height: 20px;
+text-align: center;
+margin: 10px 30px;
+padding: 150px 0 0 0;
+background-position: 0 50%;
+background-size: 130px auto;
+background-repeat: no-repeat;
+font-size: 120%;
+color: black;
 }
-.promo li {
-    list-style: none;
-}
+.promo li {list-style: none;}
 </style>
 
 <p class="badges" height=20px>
